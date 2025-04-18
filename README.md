@@ -11,7 +11,7 @@ Eu tenho uma lista de repositorios públicos que eu gosto tendo diversas ferrame
 eu acho interresante como diversos emuladores e ferramentas pro desenvolvimento web nas stars, mais abaixo tem
 uma lista de **conhecimentos** e depois algumas redes socias na qual você pode **entrar em contato** comigo.
 
-### 📚 | Conhecimentos
+## 📚 | Conhecimentos
 
 #### 👨‍💻 | Linguagens de Programação
 
