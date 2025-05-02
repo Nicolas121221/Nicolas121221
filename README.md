@@ -12,39 +12,69 @@ eu acho interresante como diversos emuladores e ferramentas pro desenvolvimento 
 uma lista de **conhecimentos** e depois algumas redes socias na qual você pode **entrar em contato** comigo.
 
 ## 📚 | Conhecimentos
+<h4>👨‍💻 | Linguagens de Programação</h4>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
+</a>
 
-#### 👨‍💻 | Linguagens de Programação
+<h4>📁 | Linguagens de marcação e estilização</h4>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS">
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</a>
 
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<h4>⚙ | Banco de Dados</h4>
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+</a>
 
-#### 📁 | Linguagens de marcação e estilização
+<h4>🔨 | Frameworks</h4>
+<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express">
+</a>
+<a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" alt="Svelte">
+</a>
 
-[![html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![css](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<h4>🔎 | Ferramentas</h4>
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
+</a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/VirtualBox-2F61B4.svg?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox">
+</a>
 
-#### ⚙ | Linguagens de instrução
+<h4>💿 | Versionamento de código</h4>
+<a href="https://github.com/Nicolas121221" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
+</a>
 
-[![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+<h3>📱 | Redes Sociais</h3>
+<a href="https://www.instagram.com/nicolas121221/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/nicolasguedes1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://discordapp.com/users/740753560706220153" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://github.com/Nicolas121221" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+</a>
 
-#### 🔨 | Frameworks
 
-[![express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
-
-#### 🔎 | Ferramentas
-
-[![node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-[![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
-[![Virtual Box](https://img.shields.io/badge/VirtualBox-2F61B4.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
-
-#### 💿 | Versionamento de código
-
-[![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Nicolas121221)
-[![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
-
-### 📱 | Redes Socias
-
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nicolas121221/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasguedes1)
-[![discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/740753560706220153)
-[![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Nicolas121221)
