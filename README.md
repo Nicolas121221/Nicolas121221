@@ -27,10 +27,5 @@ Javascript mas também gosto de ver outras linguagens de programação.
 
 ### Redes Sociais
 
-<a href="https://instagram.com/nicolas121221">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> @nicolas121221
-</a>
-
-<a href="https://br.linkedin.com/in/nicolasguedes1">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> Nicolas Guedes
-</a>
+Instagram: [@nicolas121221](https://instagram.com/nicolas121221)  
+Linkedin: [Nicolas Guedes](https://br.linkedin.com/in/nicolasguedes1)
