@@ -8,10 +8,10 @@ Javascript mas também gosto de ver outras linguagens de programação.
 
 <div align=center>
   <a href="https://github.com/nicolas121221/">
-      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas121221&show_icons=true&show&theme=transparent&locale=pt-br" />
+      <img height=150 align="center" src="https://nicolas121-stats.vercel.app/api?username=nicolas121221&show_icons=true&show&theme=transparent&locale=pt-br" />
   </a>
   <a href="https://github.com/nicolas121221/">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas121221&layout=compact&locale=pt-br&theme=transparent" />
+    <img height=150 align="center" src="https://nicolas121-stats.vercel.app/api/top-langs/?username=nicolas121221&layout=compact&locale=pt-br&theme=transparent" />
   </a>
 </div>
 
@@ -19,10 +19,10 @@ Javascript mas também gosto de ver outras linguagens de programação.
 
 <div align=center>
   <a href="https://github.com/nicolas121221/ProjetoEntra21">
-      <img height=150 align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=nicolas121221&repo=ProjetoEntra21&locale=pt-br&theme=transparent"  />
+      <img height=150 align="center"  src="https://nicolas121-stats.vercel.app/api/pin/?username=nicolas121221&repo=ProjetoEntra21&locale=pt-br&theme=transparent"  />
   </a>
   <a href="https://github.com/nicolas121221/Curso-JavascriptTypescript">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolas121221&repo=Curso-JavascriptTypescript&locale=pt-br&theme=transparent" />
+    <img height=150 align="center" src="https://nicolas121-stats.vercel.app/api/pin/?username=nicolas121221&repo=Curso-JavascriptTypescript&locale=pt-br&theme=transparent" />
   </a>
 </div>
 
